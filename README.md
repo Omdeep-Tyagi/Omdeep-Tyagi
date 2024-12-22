@@ -2,12 +2,14 @@
 
 Welcome to my GitHub profile!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Omdeep-Tyagi&color=blueviolet)
+
+
 ## 🚀 About Me
-- 🔭 I’m currently working on [building innovative solutions using full-stack development.]
-- 🌱 I’m currently learning [advanced concepts in React, Node.js, Express and MongoDB.]
-- 👯 I’m looking to collaborate on [exciting projects.]
-- 😄 Pronouns: [He/Him]
-- ⚡ Fun fact: [My sleep schedule is a mess, but my work is always on point!]
+- 🔭 I’m currently working on building innovative solutions using full-stack development.
+- 🌱 I’m currently learning advanced concepts in React, Node.js, Express and MongoDB.
+- 👯 I’m looking to collaborate on exciting projects.
+- ⚡ Fun fact: My sleep schedule is a mess, but my work is always on point!
 
 ## 🛠️ My Skills
 - Programming Languages: [Javascript , C++ , Typescript]
