@@ -12,9 +12,9 @@ Welcome to my GitHub profile!
 - ⚡ Fun fact: My sleep schedule is a mess, but my work is always on point!
 
 ## 🛠️ My Skills
-- Programming Languages: [Javascript , C++ , Typescript]
-- Frameworks: [Express, React, Bootstrap]
-- Tools: [AWS, Github, VS Code, Postman]
+- Programming Languages: Javascript , C++ , Typescript
+- Frameworks: Express, React, Bootstrap
+- Tools: AWS, Github, VS Code, Postman
 
 ## 📈 GitHub Stats
 ![Omdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omdeep-Tyagi&show_icons=true&theme=radical)
@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/omdeep-tyagi-428854272/)
-- [Email](<a href="mailto:tyagiom2308@gmail.com">Email Me</a>)
+- [Email](mailto:tyagiom2308@gmail.com)
 - [Codeforces](https://codeforces.com/profile/tyagiomdeep)
 - [Codechef](https://www.codechef.com/users/tyagiomdeep)
 - [Leetcode](https://leetcode.com/u/tyagiomdeep/)
