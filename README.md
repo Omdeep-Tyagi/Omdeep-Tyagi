@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 - ⚡ Fun fact: My sleep schedule is a mess, but my work is always on point!
 
 
-## 👨🏻‍💻 My Porfolio
+## 👨🏻‍💻 My Portfolio
 
 [omdeeptyagi.netlify.app/](https://omdeeptyagi.netlify.app/)
 
