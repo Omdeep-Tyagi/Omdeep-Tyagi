@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 ## My Porfolio
 
-[omdeeptyagi.netlify.app/](omdeeptyagi.netlify.app/)
+[omdeeptyagi.netlify.app/](https://omdeeptyagi.netlify.app/)
 
 ## 🛠 My Skills
 
