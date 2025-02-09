@@ -12,6 +12,10 @@ Welcome to my GitHub profile!
 - ⚡ Fun fact: My sleep schedule is a mess, but my work is always on point!
 
 
+## My Porfolio
+
+[omdeeptyagi.netlify.app/](omdeeptyagi.netlify.app/)
+
 ## 🛠 My Skills
 
 <!-- - **Languages**: JavaScript, C++, TypeScript
